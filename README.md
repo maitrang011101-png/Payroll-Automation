@@ -46,6 +46,8 @@ Examples include:
 - Public tax information
 - Company registration details
 - Other publicly available reference data
+- Pulic Holidays
+- Number of work days
 
 This allows payroll records to be enriched and cross-checked automatically.
 
